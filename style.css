@@ -6,4 +6,19 @@ h1 {
 
 }
 
+body {
+    width: 100%;
+        background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)50%), url(https://www.rd.com/wp-content/uploads/2017/10/This-Is-How-Long-It-Takes-To-Read-The-Whole-Dictionary_509582812-Billion-Photos_FT.jpg);
+        background-position: center;
+        background-size: cover;
+        height: 100vh;
+        width: 100vw;
+        
+}
 
+p{
+    color:white;
+}
+ul{
+    color:white;
+}
